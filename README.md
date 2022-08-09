@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hola soy Fridel
+
+Hola soy fridel, docente de la universidad catolica Boliviana, estoy cursando Introduccion a la programacion
+
+
+
+## UCB Sede Central
+
+The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
