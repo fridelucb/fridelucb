@@ -13,8 +13,7 @@ Hola soy fridel, docente de la universidad catolica Boliviana, estoy cursando In
 - 🤔 Acualmente soy administrador web de la pagina de la Diocesis de Tarija.
 
 ## Software Guiado
-
--
+- [Software Boleta de Pago Version 1.0 en Lenguaje Python con Paradigma Estructurado](https://github.com/SIS-111-Introduccion-a-la-Programacion/Software/tree/main/BoletadePago)
 
 
 
